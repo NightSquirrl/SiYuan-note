@@ -1,0 +1,101 @@
+{
+  "picBed": {
+    "uploader": "github",
+    "current": "github",
+    "github": {
+      "_configName": "Default",
+      "_id": "56ce566a-3f1a-4e76-94fd-cdf71f426884",
+      "_createdAt": 1705171990484,
+      "_updatedAt": 1705171990484
+    },
+    "aliyun": {
+      "_configName": "Default",
+      "_id": "59e1fddc-6c50-4164-a8ea-29d9c497b7e8",
+      "_createdAt": 1705172263333,
+      "_updatedAt": 1705172263333
+    },
+    "tcyun": {
+      "_configName": "Default",
+      "_id": "fd2bd4e3-bbf3-4cee-8a2a-78a47f81c0bb",
+      "_createdAt": 1705172264364,
+      "_updatedAt": 1705172264364
+    },
+    "qiniu": {
+      "_configName": "Default",
+      "_id": "cc2dde14-b477-4b0e-a67d-0acba760d6c4",
+      "_createdAt": 1705172265081,
+      "_updatedAt": 1705172265081
+    },
+    "upyun": {
+      "_configName": "Default",
+      "_id": "395eaffe-c2bb-4d78-93ec-dcc5ee9125fd",
+      "_createdAt": 1705172265581,
+      "_updatedAt": 1705172265581
+    }
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "SY-PICGO",
+  "settings": {
+    "autoRename": true,
+    "registry": "https://registry.npmmirror.com",
+    "nodePath": "/Users/zeroeldath/.nvm/versions/node/v18.17.1/bin/node"
+  },
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "56ce566a-3f1a-4e76-94fd-cdf71f426884",
+          "_createdAt": 1705171990484,
+          "_updatedAt": 1705171990484
+        }
+      ],
+      "defaultId": "56ce566a-3f1a-4e76-94fd-cdf71f426884"
+    },
+    "aliyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "59e1fddc-6c50-4164-a8ea-29d9c497b7e8",
+          "_createdAt": 1705172263333,
+          "_updatedAt": 1705172263333
+        }
+      ],
+      "defaultId": "59e1fddc-6c50-4164-a8ea-29d9c497b7e8"
+    },
+    "tcyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "fd2bd4e3-bbf3-4cee-8a2a-78a47f81c0bb",
+          "_createdAt": 1705172264364,
+          "_updatedAt": 1705172264364
+        }
+      ],
+      "defaultId": "fd2bd4e3-bbf3-4cee-8a2a-78a47f81c0bb"
+    },
+    "qiniu": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "cc2dde14-b477-4b0e-a67d-0acba760d6c4",
+          "_createdAt": 1705172265081,
+          "_updatedAt": 1705172265081
+        }
+      ],
+      "defaultId": "cc2dde14-b477-4b0e-a67d-0acba760d6c4"
+    },
+    "upyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "395eaffe-c2bb-4d78-93ec-dcc5ee9125fd",
+          "_createdAt": 1705172265581,
+          "_updatedAt": 1705172265581
+        }
+      ],
+      "defaultId": "395eaffe-c2bb-4d78-93ec-dcc5ee9125fd"
+    }
+  }
+}

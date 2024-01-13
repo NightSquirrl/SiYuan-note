@@ -1,0 +1,74 @@
+{
+  "local-bazaar": {
+    "icon": "2",
+    "plugin": "2",
+    "template": "2",
+    "theme": "2",
+    "widget": "2"
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20230428155440-s8hzxrz",
+      "focusEnd": 0,
+      "focusId": "20210428212840-859h45j",
+      "focusStart": 0,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 89,
+      "startId": "20240114024839-6xc0sme"
+    },
+    "20200813004931-q4cu8na": {
+      "endId": "20230419153207-l40wjv2",
+      "focusEnd": 0,
+      "focusId": "20210118100623-i00rgj0",
+      "focusStart": 0,
+      "rootId": "20200813004931-q4cu8na",
+      "scrollTop": 0,
+      "startId": "20210118100623-i00rgj0"
+    },
+    "20200825162036-4dx365o": {
+      "endId": "20211213122332-wozw982",
+      "focusEnd": 0,
+      "focusId": "20210604182832-nm3hapx",
+      "focusStart": 0,
+      "rootId": "20200825162036-4dx365o",
+      "scrollTop": 0,
+      "startId": "20210604182832-nm3hapx"
+    },
+    "20200905090211-2vixtlf": {
+      "endId": "20210104090624-vsksysm",
+      "focusEnd": 0,
+      "focusId": "20210104090624-fkv1xsc",
+      "focusStart": 0,
+      "rootId": "20200905090211-2vixtlf",
+      "scrollTop": 0,
+      "startId": "20210104090624-fkv1xsc"
+    },
+    "20210808180320-abz7w6k": {
+      "endId": "20210808180320-vyqtyoi",
+      "focusEnd": 0,
+      "focusId": "20210419175122-qz9ez8m",
+      "focusStart": 0,
+      "rootId": "20210808180320-abz7w6k",
+      "scrollTop": 44,
+      "startId": "20210419175122-jibfje5"
+    },
+    "20210808180320-fqgskfj": {
+      "endId": "20210808180320-vk0kg8n",
+      "focusEnd": 0,
+      "focusId": "20210808180320-vk0kg8n",
+      "focusStart": 0,
+      "rootId": "20210808180320-fqgskfj",
+      "scrollTop": 0,
+      "startId": "20210808180320-vk0kg8n"
+    },
+    "20230429114837-70asb4j": {
+      "endId": "20230429114837-uavwo4u",
+      "focusEnd": 0,
+      "focusId": "20230429114837-3y8u0uj",
+      "focusStart": 0,
+      "rootId": "20230429114837-70asb4j",
+      "scrollTop": 208,
+      "startId": "20240114024950-1olopn4"
+    }
+  }
+}

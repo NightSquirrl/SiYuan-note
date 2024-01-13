@@ -1,0 +1,41 @@
+I 2024/01/14 02:35:03 working.go:146: 
+      ___                                   ___           ___           ___
+     /  /\        ___           ___        /__/\         /  /\         /__/\
+    /  /:/_      /  /\         /__/|       \  \:\       /  /::\        \  \:\
+   /  /:/ /\    /  /:/        |  |:|        \  \:\     /  /:/\:\        \  \:\
+  /  /:/ /::\  /__/::\        |  |:|    ___  \  \:\   /  /:/~/::\   _____\__\:\
+ /__/:/ /:/\:\ \__\/\:\__   __|__|:|   /__/\  \__\:\ /__/:/ /:/\:\ /__/::::::::\
+ \  \:\/:/~/:/    \  \:\/\ /__/::::\   \  \:\ /  /:/ \  \:\/:/__\/ \  \:\~~\~~\/
+  \  \::/ /:/      \__\::/    ~\~~\:\   \  \:\  /:/   \  \::/       \  \:\  ~~~
+   \__\/ /:/       /__/:/       \  \:\   \  \:\/:/     \  \:\        \  \:\
+     /__/:/        \__\/         \__\/    \  \::/       \  \:\        \  \:\
+     \__\/                                 \__\/         \__\/         \__\/
+I 2024/01/14 02:35:03 runtime.go:74: kernel is booting:
+    * ver [2.12.2]
+    * arch [arm64]
+    * os [darwin]
+    * pid [37015]
+    * runtime mode [prod]
+    * working directory [/Applications/SiYuan.app/Contents/Resources]
+    * read only [false]
+    * container [std]
+    * database [ver=20220501]
+    * workspace directory [/Users/zeroeldath/Desktop/寻找自己/SiYuan]
+I 2024/01/14 02:35:03 conf.go:137: initialized the specified language [zh_CN]
+I 2024/01/14 02:35:03 runtime.go:123: use network proxy [system]
+I 2024/01/14 02:35:03 serve.go:115: kernel [pid=37015] http server [127.0.0.1:64746] is booting
+I 2024/01/14 02:35:03 database.go:89: the database structure is changed, rebuilding database...
+I 2024/01/14 02:35:03 database.go:109: reinitialized database [/Users/zeroeldath/Desktop/寻找自己/SiYuan/temp/siyuan.db]
+I 2024/01/14 02:35:03 conf.go:770: database size [4.1 kB], tree/block count [0/0]
+I 2024/01/14 02:35:03 working.go:192: kernel booted
+I 2024/01/14 02:35:03 box.go:76: auto stat [trees=0, blocks=0, dataSize=37 kB, assetsSize=0 B]
+I 2024/01/14 02:35:03 disk.go:33: disk usage [total=245 GB, used=164 GB, free=82 GB]
+I 2024/01/14 02:35:03 index.go:197: rebuilt database for notebook [20210808180117-czj9bvb] in [0.01s], tree [count=64, size=1.2 MB]
+I 2024/01/14 02:35:04 index.go:269: resolved refs [29] in [9ms]
+I 2024/01/14 02:35:04 serve.go:128: reverse proxy server [127.0.0.1:6806] is booting
+I 2024/01/14 02:35:08 pandoc.go:155: initialized built-in pandoc [ver=3.1.1, bin=/Users/zeroeldath/Desktop/寻找自己/SiYuan/temp/pandoc/bin/pandoc]
+I 2024/01/14 02:35:08 conf.go:1000: pandoc initialized, set pandoc bin to [/Users/zeroeldath/Desktop/寻找自己/SiYuan/temp/pandoc/bin/pandoc]
+E 2024/01/14 02:43:27 template.go:59: get community template [sublimeclemency/reflection@4044bc510f7c64d656dcf2a6126afa4f7de0f050] failed: json: cannot unmarshal string into Go struct field Funding.funding.custom of type []string
+W 2024/01/14 02:45:03 history.go:531: history dir [/Users/zeroeldath/Desktop/寻找自己/SiYuan/history] not exist
+I 2024/01/14 02:51:20 index.go:197: rebuilt database for notebook [20240114025120-7d6h9cf] in [0.00s], tree [count=0, size=0 B]
+I 2024/01/14 02:51:21 index.go:269: resolved refs [29] in [21ms]
